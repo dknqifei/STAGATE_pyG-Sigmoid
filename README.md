@@ -1,6 +1,17 @@
 # STAGATE_pyG
 [![DOI](https://zenodo.org/badge/398185411.svg)](https://zenodo.org/badge/latestdoi/398185411)
 
+This version is the STAGATE software based on pyG (PyTorch Geometric) framework. The non-linear function for attention weight calculation is Sigmoid in this version, which is the same with the tensorflow version STAGATE.
+
+Compared to the 
+
+
+
+
+See [Documentation and Tutorials](https://stagate.readthedocs.io/en/latest/index.html).
+
+
+
 STAGATE software based on pyG (PyTorch Geometric) framework.
 
 ![](https://github.com/QIFEIDKN/STAGATE/blob/main/STAGATE_Overview.png)
